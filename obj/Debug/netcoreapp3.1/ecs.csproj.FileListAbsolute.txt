@@ -1,0 +1,13 @@
+C:\Users\Влад\Desktop\ecs\bin\Debug\netcoreapp3.1\ecs.exe
+C:\Users\Влад\Desktop\ecs\bin\Debug\netcoreapp3.1\ecs.deps.json
+C:\Users\Влад\Desktop\ecs\bin\Debug\netcoreapp3.1\ecs.runtimeconfig.json
+C:\Users\Влад\Desktop\ecs\bin\Debug\netcoreapp3.1\ecs.runtimeconfig.dev.json
+C:\Users\Влад\Desktop\ecs\bin\Debug\netcoreapp3.1\ecs.dll
+C:\Users\Влад\Desktop\ecs\bin\Debug\netcoreapp3.1\ecs.pdb
+C:\Users\Влад\Desktop\ecs\obj\Debug\netcoreapp3.1\ecs.csprojAssemblyReference.cache
+C:\Users\Влад\Desktop\ecs\obj\Debug\netcoreapp3.1\ecs.csproj.CoreCompileInputs.cache
+C:\Users\Влад\Desktop\ecs\obj\Debug\netcoreapp3.1\ecs.AssemblyInfoInputs.cache
+C:\Users\Влад\Desktop\ecs\obj\Debug\netcoreapp3.1\ecs.AssemblyInfo.cs
+C:\Users\Влад\Desktop\ecs\obj\Debug\netcoreapp3.1\ecs.dll
+C:\Users\Влад\Desktop\ecs\obj\Debug\netcoreapp3.1\ecs.pdb
+C:\Users\Влад\Desktop\ecs\obj\Debug\netcoreapp3.1\ecs.genruntimeconfig.cache
